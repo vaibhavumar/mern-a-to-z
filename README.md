@@ -2,12 +2,12 @@
 A tutorial project to MERN - Mongo, Express, React, Nodejs
 
 # Prerequisites:
-1. Nodejs
-1.1. Mongoose (npm install mongoose)
-1.2. Express (npm install express)
-1.3. body-parser (npm install body-parser)
-1.4. config (npm install config)
-1.5. nodemon (npm install nodemon)
+- Nodejs
+  - Mongoose (npm install mongoose)
+  - Express (npm install express)
+  - body-parser (npm install body-parser)
+  - config (npm install config)
+  - nodemon (npm install nodemon)
 
 # Run:
 1. In project directory, open up a terminal.
