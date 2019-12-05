@@ -8,6 +8,9 @@ A tutorial project to MERN - Mongo, Express, React, Nodejs
   - body-parser (`npm install body-parser`)
   - config (`npm install config`)
   - nodemon (`npm install nodemon`)
+  - cors (`npm install cors`)
+  - react-router-dom (`npm install --save react-router-dom`)
+  - axios (`npm install --save axios`)
 
 # Run:
 1. In project directory, open up a terminal.
